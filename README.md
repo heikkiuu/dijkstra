@@ -1,6 +1,6 @@
 # dijkstra
 
-Modified dijkstra to find the path with the lowest weight in an undirected graph.
+Modified dijkstra-algorithm to find a path in which the highest point is as low as possible in an undirected graph.
 
 "Carrier K. transports calibrated high precision
 measuring instruments from his home city to various cities in a mountainous country. If the carrier
